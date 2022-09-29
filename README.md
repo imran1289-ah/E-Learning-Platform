@@ -13,7 +13,6 @@ The objectives of this project is to build a E-academy platform and have feature
 - 
 
 ## Team members
-- Madline Nessim @[madeleine3341](https://github.com/madeleine3341) 40078034
 - Imran Ahmed @[imran1289-ah](https://github.com/imran1289-ah) 40172931
 - Joe El-Khoury @[Aboudik1452](https://github.com/Aboudik1452) 40173108
 - Alp Erdinc @[AlpErdinc](https://github.com/AlpErdinc) 40172910
