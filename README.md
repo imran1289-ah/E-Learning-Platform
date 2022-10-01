@@ -13,6 +13,7 @@ The objectives of this project is to build a E-academy platform allowing student
 - Class Forum for students and tutors to connect
 - Search/Filter for courses/lessons 
 - Calender system for tutor/students
+- Request Mangement System
 
 ## Tools and Techniques
 - Comparative Study
