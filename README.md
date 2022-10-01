@@ -1,16 +1,22 @@
 # SOEN342_TeamB
 
 ## Project Description
-This project is a E-Academy platform which allows struggling university and CEGEP students to get help with the courses that they are taking. These students can enroll for many lessons which are taught by PhD and master's graduate. The tutors can meet with with the students in person or could give remote lessons. The courses offered in the application covers many courses from majors like Medicine, Engineering, Computer Sciences and Many more. 
+This project is a E-Academy platform which allows university students to get help with the courses that they are taking. These students can enroll for many lessons which are taught by PhD and master's graduate. The tutors can meet with with the students in person or could give remote lessons. The courses offered in the application covers many lessons/courses from majors Engineering, Computer Sciences etc. 
 
 ## Objective
-The objectives of this project is to build a E-academy platform and have features that will be different and or better than its competitors. Requirement elication techniques will be used to collect information and the features will be based upon it. 
+The objectives of this project is to build a E-academy platform allowing students and tutors to connect with each other. The system should have features that will be different and or better than its competitors. Requirement elication techniques will be used to collect information and the features will be based upon the results of these techniques.
 
 ## Features
--
+- Login/Register for an account (student,tutor,guest or admin)
+- Cart to allow users to pay for their course(s)/lesson(s) enrolled.
+- Scheduale Meetings with tutors
+- Class Forum for students and tutors to connect
+- Search/Filter for courses/lessons 
+- Calender system for tutor/students
 
 ## Tools and Techniques
-- 
+- Comparative Study
+- Survey/Questionnaire
 
 ## Team members
 - Imran Ahmed @[imran1289-ah](https://github.com/imran1289-ah) 40172931
