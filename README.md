@@ -22,7 +22,7 @@ The objectives of this project is to build a E-academy platform allowing student
 ## Team members
 - Imran Ahmed @[imran1289-ah](https://github.com/imran1289-ah) 40172931
 - Joe El-Khoury @[Aboudik1452](https://github.com/Aboudik1452) 40173108
-- Alp Erdinc @[AlpErdinc](https://github.com/AlpErdinc) 40172910
+- Ali Alp Erdinc @[AlpErdinc](https://github.com/AlpErdinc) 40172910
 - Arsany Fahmy @[Arsollo](https://github.com/Arsollo) 40157267 
 - Hao Yi Liu @[Niniishere](https://github.com/Niniishere) 40174210
 - Pai Peng @[pphaoniubi](https://github.com/pphaoniubi) 40155601 
