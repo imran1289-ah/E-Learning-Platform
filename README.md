@@ -9,7 +9,7 @@ The objectives of this project is to build a E-academy platform allowing student
 ## Features
 - Login/Register for an account (student,tutor,guest or admin)
 - Cart to allow users to pay for their course(s)/lesson(s) enrolled.
-- Scheduale Meetings with tutors
+- Schedule Meetings with tutors
 - Class Forum for students and tutors to connect
 - Search/Filter for courses/lessons 
 - Calender system for tutor/students
