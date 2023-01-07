@@ -1,4 +1,4 @@
-# SOEN342_E-Learning-Platform
+# E-Learning-Platform
 
 ## Project Description
 This project is a E-Academy platform which allows university students to get help with the courses that they are taking. These students can enroll for many lessons which are taught by PhD and master's graduate. The tutors can meet with with the students in person or could give remote lessons. The courses offered in the application covers many lessons/courses from majors Engineering, Computer Sciences etc. 
